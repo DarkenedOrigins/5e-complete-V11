@@ -161,7 +161,7 @@
         }
     ],
     "url": "https://github.com/DarkenedOrigins/5e-complete-V11",
-    "manifest": "https://github.com/DarkenedOrigins/5e-complete-V11/releases/latest/download/module.json",
-    "download": "https://github.com/DarkenedOrigins/5e-complete-V11/releases/download/module.zip",
+    "manifest": "https://github.com/DarkenedOrigins/5e-complete-V11/releases/download/latest/module.json",
+    "download": "https://github.com/DarkenedOrigins/5e-complete-V11/releases/download/latest/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
